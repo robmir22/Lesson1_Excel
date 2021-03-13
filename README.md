@@ -1,6 +1,6 @@
 # Lesson1_Excel
 
-In the Word file you will find a sumamry of the activity with conclussions drawn from the data analysis and charts created in Excel.
+In the Word file you will find a summary of the activity with conclussions drawn from the data analysis and charts created in Excel.
 
 In the Excel file you will find 6 sheets:
 1. Data: Conditional formatting, Date conversion, Excel Formulas
